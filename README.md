@@ -1,8 +1,6 @@
 # go-ftx
 FTX exchange golang library
 
-Forked from https://github.com/grishinsana/goftx
-
 This is a full implementation of the FTX REST and Websocket API.
 
 Use at your own risk.
